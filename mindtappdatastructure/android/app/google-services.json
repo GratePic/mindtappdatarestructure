@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "970382485407",
+    "project_id": "mindtappdatarestructure03",
+    "storage_bucket": "mindtappdatarestructure03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970382485407:android:266091e33cb98ada50bfaa",
+        "android_client_info": {
+          "package_name": "com.example.mindtappdatastructure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970382485407-bcfqililc5tghbbg3aijtlgd3nhobh24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6PCuK7VTzRWjYYTtLn6PnqbR1tNDKNiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970382485407-bcfqililc5tghbbg3aijtlgd3nhobh24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970382485407-k7nrg9bbu3r3lncidqmifijmmtlahktg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mindtappdatarestructure03"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
